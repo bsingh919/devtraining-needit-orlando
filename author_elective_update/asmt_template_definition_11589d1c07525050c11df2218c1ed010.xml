@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="asmt_template_definition">
+    <asmt_template_definition action="DELETE">
+        <display>Very Satisfied</display>
+        <selected_image/>
+        <sys_class_name>asmt_template_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-25 04:35:51</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>11589d1c07525050c11df2218c1ed010</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Very Satisfied</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>asmt_template_definition_11589d1c07525050c11df2218c1ed010</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-25 04:35:51</sys_updated_on>
+        <template display_value="SSS Template">9a4711d807525050c11df2218c1ed000</template>
+        <unselected_image/>
+        <value>4</value>
+    </asmt_template_definition>
+    <sys_translated_text action="DELETE" query="documentkey=11589d1c07525050c11df2218c1ed010"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>b4a6de96db7054904b5c50b6f496193e</instance_id>
+        <instance_name>dev104053</instance_name>
+        <name>asmt_template_definition_11589d1c07525050c11df2218c1ed010</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="asmt_template_definition"><asmt_template_definition action="INSERT_OR_UPDATE"><display>Very Satisfied</display><selected_image/><sys_class_name>asmt_template_definition</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-25 04:35:51</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>11589d1c07525050c11df2218c1ed010</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Very Satisfied</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>asmt_template_definition_11589d1c07525050c11df2218c1ed010</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-25 04:35:51</sys_updated_on><template display_value="SSS Template">9a4711d807525050c11df2218c1ed000</template><unselected_image/><value>4</value></asmt_template_definition><sys_translated_text action="delete_multiple" query="documentkey=11589d1c07525050c11df2218c1ed010"/></record_update>]]></payload>
+        <payload_hash>-1263561587</payload_hash>
+        <record_name>Very Satisfied</record_name>
+        <reverted_from/>
+        <source>343c3c33078edc10c11df2218c1ed0e5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-25 04:35:51</sys_created_on>
+        <sys_id>2178955c07525050c11df2218c1ed017</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>173844180350000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-25 04:35:51</sys_updated_on>
+        <type>Assessment Template Definition</type>
+        <update_guid>6978955c735250503cf05547aeb5f416</update_guid>
+        <update_guid_history>6978955c735250503cf05547aeb5f416:-1263561587</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Very Satisfied">69d85d5c07525050c11df2218c1ed092</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-25 04:37:31</sys_created_on>
+        <sys_db_object display_value="" name="asmt_template_definition">asmt_template_definition</sys_db_object>
+        <sys_id>4f180d3b67cd4dc0ae68bd6cebe01044</sys_id>
+        <sys_metadata>11589d1c07525050c11df2218c1ed010</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Very Satisfied</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>asmt_template_definition_11589d1c07525050c11df2218c1ed010</sys_update_name>
+        <sys_update_version display_value="asmt_template_definition_11589d1c07525050c11df2218c1ed010">2178955c07525050c11df2218c1ed017</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-25 04:37:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
